@@ -1,0 +1,4 @@
+customtkinter>=5.2.2
+psutil>=5.9.8
+pyinstaller>=6.6.0
+pillow>=10.3.0
