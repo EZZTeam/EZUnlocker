@@ -11,7 +11,7 @@
 Утилита полностью готова к работе и не требует установки[cite: 10]. Выберите удобный способ загрузки:
 
 * 🌐 **Официальный сайт:** https://ezzteam.github.io/EZTeam/
-* 📦 **Прямой релиз (.exe):** (https://github.com/EZZTeam/EZUnlocker/releases/latest
+* 📦 **Прямой релиз (.exe):** https://github.com/EZZTeam/EZUnlocker/releases/latest
 * 📢 **Telegram-канал:** https://t.me/EZTeeam (новости, патчи и прямые файлы)
 
 ---
